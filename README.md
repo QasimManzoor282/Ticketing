@@ -1,2 +1,2 @@
 # Ticketing
-# all information
+all information for my projects
